@@ -3,7 +3,8 @@ import React, {useContext} from "react";
 import Bag from "../../assets/shopping-bag.gif";
 import {CartContext} from '../Context/cart-context';
 import "./Cart-Icon.Styles.scss";
-
+// check to see if an item is greater than zero (? if it is then return span
+//otherwise return null aka nothing or undefined) 
 const Cart= ()=> {
   const {itemCount} = useContext (CartContext);
   return (
