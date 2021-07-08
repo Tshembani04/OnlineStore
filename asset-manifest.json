@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OnlineStore/static/css/main.bda1bf97.chunk.css",
+    "main.js": "/OnlineStore/static/js/main.3e24f450.chunk.js",
+    "main.js.map": "/OnlineStore/static/js/main.3e24f450.chunk.js.map",
+    "runtime-main.js": "/OnlineStore/static/js/runtime-main.79a2c0e5.js",
+    "runtime-main.js.map": "/OnlineStore/static/js/runtime-main.79a2c0e5.js.map",
+    "static/js/2.46bd5357.chunk.js": "/OnlineStore/static/js/2.46bd5357.chunk.js",
+    "static/js/2.46bd5357.chunk.js.map": "/OnlineStore/static/js/2.46bd5357.chunk.js.map",
+    "static/js/3.b8c56bb6.chunk.js": "/OnlineStore/static/js/3.b8c56bb6.chunk.js",
+    "static/js/3.b8c56bb6.chunk.js.map": "/OnlineStore/static/js/3.b8c56bb6.chunk.js.map",
+    "index.html": "/OnlineStore/index.html",
+    "static/css/main.bda1bf97.chunk.css.map": "/OnlineStore/static/css/main.bda1bf97.chunk.css.map",
+    "static/js/2.46bd5357.chunk.js.LICENSE.txt": "/OnlineStore/static/js/2.46bd5357.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/OnlineStore/static/media/Roboto-Regular.f25bd059.ttf",
+    "static/media/Hero.Styles.scss": "/OnlineStore/static/media/Nike-Jordan.a1c71268.jpg",
+    "static/media/Nike.e85a101a.jpg": "/OnlineStore/static/media/Nike.e85a101a.jpg",
+    "static/media/shopping-bag.8be5b6a9.gif": "/OnlineStore/static/media/shopping-bag.8be5b6a9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79a2c0e5.js",
+    "static/js/2.46bd5357.chunk.js",
+    "static/css/main.bda1bf97.chunk.css",
+    "static/js/main.3e24f450.chunk.js"
+  ]
+}
