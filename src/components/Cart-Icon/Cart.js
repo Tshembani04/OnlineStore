@@ -6,7 +6,8 @@ import "./Cart-Icon.Styles.scss";
 // check to see if an item is greater than zero (? if it is then return span
 //otherwise return null aka nothing or undefined) 
 const Cart= ()=> {
-  const {itemCount} = useContext (CartContext);
+  const {itemCount, cartItems} = useContext (CartContext);
+  console.log('CartItems', cartItems)
   return (
     <div className="cart-container">
       <img src={Bag} alt="shopping-cart-icon" />

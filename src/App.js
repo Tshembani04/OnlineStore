@@ -37,5 +37,7 @@ export default App;
 //git pull --allow-unrelated-histories
 //git add .gitignore
 //git commit -m "Adding gitignore"
+//git config --global user.name "Tshembani04"
+// git config --global user.email "aurthurmhlongo.ta@gmail.com"
 // npm run deploy
 // git push -u origin master
