@@ -1,9 +1,11 @@
 import { Switch, Route } from "react-router-dom";
-import "./App.scss";
 import Home from "./components/Home";
 import NotFound from "./components/NotFound";
 import Shop from "./components/Pages-Folder/Shop";
 import SingleProduct from "./components/SingleProduct/SingleProduct";
+import CartPage from './components/Pages-Folder/CartPage/CartPage';
+import "./App.scss";
+
 
 // import Header from "./components/Header/Header";
 // import Hero from "./components/Hero/Hero";
@@ -16,7 +18,8 @@ function App() {
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/shop" component={Shop} />
-        <Route path ='/product/:id' component={SingleProduct}/>
+        <Route path ="/product/:id" component={SingleProduct}/>
+        <Route path="/cart" component= {CartPage}/>
         <Route path="*" component={NotFound} />
       </Switch>
     </div>
@@ -41,3 +44,4 @@ export default App;
 // git config --global user.email "aurthurmhlongo.ta@gmail.com"
 // npm run deploy
 // git push -u origin master
+//"homepage": "http://Tshembani04.github.io/OnlineStore",

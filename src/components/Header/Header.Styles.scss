@@ -22,8 +22,9 @@
     }
   }
   .logo {
-    font-size: 1.5rem;
-    font-family: Circular Abstracts;
+    font-size: 1.2rem;
+    font-family: Roboto-Medium;
+    padding: 0rem;
     // position: fixed;
     // //   // top: 10;
     //   left: 0;
@@ -43,9 +44,9 @@
   li {
     display: inline-block;
     margin: 0 1rem;
-    font-family: Roboto-Regular;
-    font-size: 20px;
+    font-family: Roboto-Medium;
+    font-size: 18px;
     font-weight: 500;
-    line-height: 42px;
+    line-height: 22px;
   }
 }

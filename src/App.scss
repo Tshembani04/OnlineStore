@@ -8,13 +8,13 @@
 
 //Fonts
 @font-face {
-  font-family: Circular Abstracts;
+  font-family: Roboto-Medium;
   src: url("./fonts/Circular\ Abstracts.ttf");
 }
 
 @font-face {
-  font-family: Roboto-Regular;
-  src: url("./fonts/Roboto-Regular.ttf");
+  font-family: Roboto-Medium;
+  src: url("./fonts/Roboto-Medium.ttf");
 }
 
 .app {
@@ -33,7 +33,7 @@ img {
 
 #shop-now {
   font-weight: 600;
-  font-family: Roboto-Regular;
+  font-family: Roboto-Medium;
 
   &:hover {
     background-color: #606060;
@@ -71,12 +71,12 @@ img {
   p {
     font-size: 1.2rem;
     font-weight: bold;
-    font-family: Roboto-Regular;
+    font-family: Roboto-Medium;
   }
 
   h3 {
     font-size: 1rem;
-    font-family: Roboto-Regular;
+    font-family: Roboto-Medium;
   }
 }
 
@@ -91,7 +91,7 @@ img {
   margin-top: 0;
   margin-bottom: 10px;
   min-height: 44px;
-  font-family: Roboto-Regular;
+  font-family: Roboto-Medium;
 }
 
 //input styles
