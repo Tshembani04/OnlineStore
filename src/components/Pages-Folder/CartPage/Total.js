@@ -1,20 +1,21 @@
-import React from "react";
-import { withRouter } from "react-router-dom";
+import React from 'react';
+import { withRouter } from 'react-router-dom';
 
 const Total = ({ itemCount, total, history, clearCart }) => {
   return (
-    <div className="total-container">
-      <div className="total">
+    <div className='total-container'>
+      <div className='total'>
         <p>Total Items: {itemCount}</p>
-        <p>  {`Total: R${total}`}</p>
+        <p>{`Total: $${total}`}</p>
       </div>
-      <div className="checkout">
-          <button className='button is-black' onClick={() => history.push('/checout')}>CHECKOUT</button>
-          <button className='button is-white' onClick={() => clearCart()}>CLEAR</button>
+      <div className='checkout'>
+        <button 
+          className='button is-black' 
+          onClick={() => history.push('/checkout')}>CHECKOUT</button>
+        <button className='button is-white' onClick={() => clearCart()}>CLEAR</button>  
       </div>
     </div>
   );
-};
+}
 
-
-export default withRouter(Total);
+export default withRouter(Total)
