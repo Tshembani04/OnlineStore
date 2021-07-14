@@ -7,7 +7,7 @@ function Header() {
   return (
     <nav className="nav-menu container">
       <div className="logo">
-        <Link to="/"> CANCELWEAR </Link>{" "}
+        <Link to="/"> SHOPABAG </Link>{" "}
       </div>{" "}
       {/* Unordered list to contain our links */}{" "}
       <ul>
