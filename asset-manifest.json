@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/OnlineStore/static/css/main.b0ac8733.chunk.css",
-    "main.js": "/OnlineStore/static/js/main.0f1ef26c.chunk.js",
-    "main.js.map": "/OnlineStore/static/js/main.0f1ef26c.chunk.js.map",
-    "runtime-main.js": "/OnlineStore/static/js/runtime-main.41174640.js",
-    "runtime-main.js.map": "/OnlineStore/static/js/runtime-main.41174640.js.map",
-    "static/js/2.330a45b3.chunk.js": "/OnlineStore/static/js/2.330a45b3.chunk.js",
-    "static/js/2.330a45b3.chunk.js.map": "/OnlineStore/static/js/2.330a45b3.chunk.js.map",
-    "static/js/3.f7278749.chunk.js": "/OnlineStore/static/js/3.f7278749.chunk.js",
-    "static/js/3.f7278749.chunk.js.map": "/OnlineStore/static/js/3.f7278749.chunk.js.map",
-    "index.html": "/OnlineStore/index.html",
-    "static/css/main.b0ac8733.chunk.css.map": "/OnlineStore/static/css/main.b0ac8733.chunk.css.map",
-    "static/js/2.330a45b3.chunk.js.LICENSE.txt": "/OnlineStore/static/js/2.330a45b3.chunk.js.LICENSE.txt",
-    "static/media/Hero.Styles.scss": "/OnlineStore/static/media/BeCancelled.4e985c5b.jpg",
-    "static/media/Cancel.e3a5914d.jpg": "/OnlineStore/static/media/Cancel.e3a5914d.jpg",
-    "static/media/App.scss": "/OnlineStore/static/media/Roboto-Medium.d2d7f0c0.ttf",
-    "static/media/shopping-bag.8be5b6a9.gif": "/OnlineStore/static/media/shopping-bag.8be5b6a9.gif"
+    "main.css": "/static/css/main.842e6fea.chunk.css",
+    "main.js": "/static/js/main.f9cbaf8c.chunk.js",
+    "main.js.map": "/static/js/main.f9cbaf8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.413192a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.413192a8.js.map",
+    "static/js/2.330a45b3.chunk.js": "/static/js/2.330a45b3.chunk.js",
+    "static/js/2.330a45b3.chunk.js.map": "/static/js/2.330a45b3.chunk.js.map",
+    "static/js/3.f7278749.chunk.js": "/static/js/3.f7278749.chunk.js",
+    "static/js/3.f7278749.chunk.js.map": "/static/js/3.f7278749.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.842e6fea.chunk.css.map": "/static/css/main.842e6fea.chunk.css.map",
+    "static/js/2.330a45b3.chunk.js.LICENSE.txt": "/static/js/2.330a45b3.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Roboto-Medium.d2d7f0c0.ttf",
+    "static/media/herss.a1b5cd76.jpg": "/static/media/herss.a1b5cd76.jpg",
+    "static/media/Hero.Styles.scss": "/static/media/hr.32a6d561.jpg",
+    "static/media/shopping-bag.8be5b6a9.gif": "/static/media/shopping-bag.8be5b6a9.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.41174640.js",
+    "static/js/runtime-main.413192a8.js",
     "static/js/2.330a45b3.chunk.js",
-    "static/css/main.b0ac8733.chunk.css",
-    "static/js/main.0f1ef26c.chunk.js"
+    "static/css/main.842e6fea.chunk.css",
+    "static/js/main.f9cbaf8c.chunk.js"
   ]
 }
